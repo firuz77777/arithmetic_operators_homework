@@ -5,6 +5,6 @@ number / 2 = number
 #Find the fraction of the number and assing to a variable called 'answer'.
 answer = number % 2
 #Print the answer.
- print(answer)
+print(answer)
 #Print the number.
 print(number)
