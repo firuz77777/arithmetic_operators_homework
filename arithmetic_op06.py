@@ -1,7 +1,7 @@
 #Create a variable called 'number' with data type int.
 number = 7
 #Divide the number by 2 and assign number.
-number / 2 = number #3.5
+number /= 2 
 #Find the fraction of the number and assing to a variable called 'answer'.
 answer = number - number // 1
 #Print the answer.
